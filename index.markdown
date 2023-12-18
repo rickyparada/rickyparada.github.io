@@ -20,8 +20,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Ricky Parada and I'm a Master's student at Stanford University.
+As an undergrad, I studied Engineering Physics with a specialization in Quantum Science and Information.
+I'll be graduating in Spring 2024 with an MS in Computer Science (theory specialization).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research interests lie in the design of hybrid quantum systems with distributed computing and quantum networking applications.
+Last summer, I worked on quantum transduction research in Oskar Painter's group at Caltech, designing a qubit module for high fidelity state transfer from quantum transducers.
+I've previously researched quantum optics in Herrera Lab at la Universidad de Santiago de Chile (USACH), cuprate superconductors in Shen Lab at Stanford, and Machine Learning at Beyond Vision in Portugal.
+Check out my publications page for more information.
+
+I'm an experimentalist at heart and feel in my element around temperature controllers, lock-in amplifiers, and soldering irons.
+As a graduate student I would love to push the boundaries quantum computation through the hands-on design of novel hybrid architectures with a diverse group of highly motivated individuals.
+
+I am from Los Angeles, California and in my free time I enjoy playing soccer, solving Rubik's cubes, and long distance running. Leave a message on my contact page to let me know you were here!
