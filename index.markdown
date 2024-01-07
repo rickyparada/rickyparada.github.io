@@ -5,9 +5,6 @@
 layout: home
 ---
 
-title: home
-permalink: /
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,9 +12,6 @@ profile:
   more_info:
     <p>555 Salvatierra Walk</p>
     <p>Stanford, CA 94305</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
 Hello there!
