@@ -5,15 +5,6 @@
 layout: home
 ---
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info:
-    <p>555 Salvatierra Walk</p>
-    <p>Stanford, CA 94305</p>
----
-
 Hello there!
 
 My name is Ricky Parada and I'm a Master's student at Stanford University.
