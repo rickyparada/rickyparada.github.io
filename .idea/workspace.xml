@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="826c6193-5a65-4e79-b528-bdc144f0c272" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive-category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive-tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive-year.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_plugins/external-posts.rb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
