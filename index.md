@@ -17,6 +17,6 @@ I've previously researched quantum optics in Herrera Lab at la Universidad de Sa
 Check out my publications page for more information.
 
 I'm an experimentalist at heart and feel in my element around temperature controllers, lock-in amplifiers, and soldering irons.
-As a graduate student I would love to push the boundaries quantum computation through the hands-on design of novel hybrid architectures with a diverse group of highly motivated individuals.
+As a graduate student I would love to push the boundaries of quantum computation through the hands-on design of novel hybrid architectures with a diverse group of highly motivated individuals.
 
 I am from Los Angeles, California and in my free time I enjoy playing soccer, solving Rubik's cubes, and long distance running. Leave a message on my contact page to let me know you were here!
