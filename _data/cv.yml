@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Computer Science, MS
+    - title: M.S. Computer Science - Theory
       institution: Stanford University
       year: 2024
       description:
@@ -19,7 +19,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Engineering Physics, BS
+    - title: B.S. Engineering Physics - Quantum Science & Engineering
       institution: Stanford University
       year: 2019-2023
       description:
@@ -29,24 +29,22 @@
 - title: Experience
   type: time_table
   contents:
-    - title:
+    - title: Course Assistant
       institution: Stanford University
-      year: 1933 - 1955
+      year: April 2023-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title:
-      institution:
-      year:
+        - Teach weekly sections on algorithm design
+        - Prepare and grade problem sets/exams
+        - Hold office hours
+        - Monitor Q&A forum
+    - title: Research Assistant
+      institution: CalTech
+      year: Summer 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Designed a qubit module for high fidelity quantum state transfer
+        - Prototyped physical layouts for future use in remote entanglement experiments
 
-    - title:
+    - title: Resident Assistant
         institution:
         year:
         description:
