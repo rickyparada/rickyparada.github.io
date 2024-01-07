@@ -51,7 +51,7 @@ layout: default
 
     </p>
   </header>
-  
+
 
   {%- if page.related_publications != null and page.related_publications.size > 0 -%}
   {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
