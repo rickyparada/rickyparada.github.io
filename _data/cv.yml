@@ -34,17 +34,15 @@
       year: April 2023-Present
       description:
         - Teach weekly sections on algorithm design
-        - Prepare and grade problem sets/exams
-        - Hold office hours
-        - Monitor Q&A forum
-    - title: Research Assistant
-      institution: CalTech
-      year: Summer 2023
+        - Prepare problem sets/exams
+    - title:
+      institution:
+      year:
       description:
-        - Designed a qubit module for high fidelity quantum state transfer
-        - Prototyped physical layouts for future use in remote entanglement experiments
+        - Description 1.
+        - Description 2.
 
-    - title: Resident Assistant
+    - title:
         institution:
         year:
         description:
