@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Richard
-middle_name: A.
+first_name: Ricky
+middle_name: 
 last_name: Parada
 email: rparada@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -64,16 +64,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
+github_username: rickyparada6
+gitlab_username: rickyparada6
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: rickyparada
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: j7NyAisAAAAJ&hl
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0003-2264-1100
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
