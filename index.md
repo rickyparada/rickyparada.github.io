@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# Ricky Parada
+
 Hello there!
 
 My name is Ricky Parada and I'm a Master's student at Stanford University.
