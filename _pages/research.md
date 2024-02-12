@@ -10,7 +10,7 @@ nav_order: 2
 
 **Prof. Hideo Mabuchi, Stanford University (January 2024 - Present)**
 
-text to describe project
+add text
 
 ---
 
