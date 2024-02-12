@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img align="right" src="assets/img/best_headshot.jpeg" alt="" width="180" height="180">
+<img align="right" src="assets/img/best_headshot.jpeg" alt="" width="190" height="190">
 
 **Quantum I/O Modeling** at [Mabuchi Lab](https://mabuchilab.org/) $$\vert$$ Hybrid Quantum Systems $$\vert$$ Distributed QC
 

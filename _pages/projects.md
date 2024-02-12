@@ -9,9 +9,9 @@ description: landing page for all creations that don't fall under research, work
 
 Coming soon!
 
-<!--
-
 ---
+
+<!--
 
 ### **Leap Motion**
 
