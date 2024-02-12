@@ -31,7 +31,7 @@ Paper unsubmitted, but [available here](https://drive.google.com/file/d/1HtsnFRI
 
 **Prof. Felipe Herrera, *Universidad de Santiago de Chile (USACH)* (June 2022 - August 2022)**
 
-Classified birifringent materials based on their refractive indices using a **feed-forward Neural Network (NN)** trained on solely optical information. Determined input data in the form of Mueller matrices and Brewster's angles in reflection using polarimetry techniques. Engineered **loss landscapes** of a fixed window centered around Barium Borate (BBO) with varying resolution to measure the model's extrapolation ability.
+Classified birifringent materials based on their refractive indices using a **feed-forward Neural Network (NN)** trained solely on optical information. Determined input data in the form of Mueller matrices and Brewster's angles in reflection using polarimetry techniques. Engineered **loss landscapes** of a fixed window centered around Barium Borate (BBO) with varying resolution to measure the model's extrapolation ability.
 
 Preprint in progress, to be submitted to [Optics Continuum](https://opg.optica.org/optcon/journal/optcon/about.cfm). Presentation slides [available here](https://drive.google.com/file/d/1M3Pf-JbvTxUSwoPGReYcSEIhvULLXeuq/view?usp=sharing).
 
@@ -51,7 +51,7 @@ Paper unsubmitted, but [available here](https://arxiv.org/abs/2209.01324). Prese
 
 **Prof. Zhi-Xun Shen, *Stanford University* (June 2021 - August 2021)**
 
-Computed corrections to energy/momentum distribution curves (EDC/MDCs) of cuprate superconductor Bismuth strontium calcium copper oxide (BSCCO) via matrix convolutions. Deployed **Igor Pro** software to procedurally extend the Brillioin Zone on high $$T_c$$ **angle-resolved photoemission spectroscopy (ARPES)** data to cover a broader range of the crystal lattice.
+Computed corrections to energy/momentum distribution curves (EDC/MDCs) of Bismuth strontium calcium copper oxide (BSCCO) **angle-resolved photoemission spectroscopy (ARPES)** data via matrix convolutions. Deployed **Igor Pro** software to procedurally extend the first Brillouin zone of high $$T_c$$ cuprate superconductors to cover a broader range of the crystal lattice.
 
 Presentation slides [available here](https://drive.google.com/file/d/1O_nQcF_2NQF_wOJe503-YvE88KxtVPjK/view?usp=sharing).
 
@@ -61,6 +61,6 @@ Presentation slides [available here](https://drive.google.com/file/d/1O_nQcF_2NQ
 
 **Prof. Felipe Herrera, Universidad de Santiago de Chile (USACH) (June 2022 - August 2022)**
 
-Proposed a new testbed utilizing **Machine Learning (ML)** to procedurally generate and place 3D models to create realistic environments based on satellite images, thus providing users with a more robust example of real-world UAV deployment. Main contribution was creating a feature segmentation model using **YOLOv4 and MASK R-CNN** (buildings, trees, roads, etc.) for placement in simulation.
+Proposed a new testbed utilizing the **Robot Operating System (ROS)** and **Machine Learning (ML)** to procedurally generate and place 3D models to create realistic environments based on satellite images, thus providing users with a more robust example of real-world UAV deployment. Main contribution was creating a feature segmentation model using **YOLOv4 and MASK R-CNN** (using buildings, trees, roads, etc. as objects) for placement in simulation.
 
-First author (equal contribution) of MDPI Applied Sciences [journal paper](https://www.mdpi.com/2076-3417/11/5/2185). Video demonstration [available here](https://drive.google.com/file/d/11c7G27hdZmQBw-eZFb6H31-EXhb6ln-8/view?usp=sharing).
+Joint first author (equal contribution*) of MDPI Applied Sciences [journal paper](https://www.mdpi.com/2076-3417/11/5/2185). Video demonstration [available here](https://drive.google.com/file/d/11c7G27hdZmQBw-eZFb6H31-EXhb6ln-8/view?usp=sharing).
