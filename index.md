@@ -16,15 +16,11 @@ I'm currently working at [Mabuchi Lab](https://mabuchilab.org/) on quantum state
 
 I am a proud Angeleno hailing from Glendale, California. I love travel (especially visiting family in Mexico/Thailand), playing soccer, long distance running, and solving Rubik's cubes (particularly while blindfolded). I also enjoy playing games (mostly tabletop or any Mario franchise installment), listening to music (primarily classic rock, Disney, or Taylor Swift), and improving my piano playing abilities. Don't hesitate to reach me at [rparada@stanford.edu](mailto:rparada@stanford.edu) with any questions!
 
-<br/>
-<hr/>
-<br/>
 <span class="contacticon center">
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="http://tumblr.com" target="_blank"><i class="fa fa-scholar-square"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
