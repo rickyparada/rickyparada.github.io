@@ -16,6 +16,8 @@ I'm currently working at [Mabuchi Lab](https://mabuchilab.org/) on quantum state
 
 I am a proud Angeleno hailing from Glendale, California. I love travel (especially visiting family in Mexico/Thailand), playing soccer, long distance running, and solving Rubik's cubes (particularly while blindfolded). I also enjoy playing games (mostly tabletop or any Mario franchise installment), listening to music (primarily classic rock, Disney, or Taylor Swift), and improving my piano playing abilities. Don't hesitate to reach me at [rparada@stanford.edu](mailto:rparada@stanford.edu) with any questions!
 
+<hr/>
+<br/>
 <span class="contacticon center">
 	<a href="mailto:rparada@stanford.edu"><i class="ai ai-envelope-square ai-3x"></i></a>
 	<a href="https://scholar.google.com/citations?user=j7NyAisAAAAJ&hl=en" target="_blank"><i class="ai ai-scholar-square ai-3x"></i></a>
