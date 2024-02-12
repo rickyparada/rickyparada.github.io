@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+social: true
 ---
 
 <img class="col one right" src="assets/img/1.jpg">
