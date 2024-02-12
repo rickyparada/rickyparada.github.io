@@ -9,7 +9,7 @@ layout: page
 
 Hello there!
 
-<img src="assets/img/best_headshot.jpg" alt="" width="100" height="100" id="hp"/>
+<img src="assets/img/best_headshot.jpeg" alt="" width="100" height="100" id="hp"/>
 
 My name is Ricky Parada and I'm a Coterminal Master's student at Stanford University. As an undergrad, I studied Engineering Physics with a specialization in Quantum Science and Engineering (QSE). I'll be graduating in Spring 2024 with an MS in Computer Science (theory specialization). Broadly, my research interests lie in the experimental design of hybrid quantum systems with distributed computing and quantum networking applications.
 
