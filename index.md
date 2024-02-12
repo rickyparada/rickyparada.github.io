@@ -3,10 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+profile:
+	align: right
+	image: 1.jpg
+
 social: true
 ---
 
-<img class="col one right" src="assets/img/1.jpg">
 
 **Quantum I/O Modeling** at [Mabuchi Lab](https://mabuchilab.org/) $$\vert$$ Distributed $$\vert$$ Hybrid Quantum Systems
 
