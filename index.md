@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-enable_navbar_social: true
 ---
 <img class="col one right" src="assets/img/1.jpg">
 
@@ -16,3 +15,9 @@ My name is Ricky Parada and I'm a Coterminal Master's student at Stanford Univer
 I'm currently working at [Mabuchi Lab](https://mabuchilab.org/) on quantum state propogation modeling in open networks using SLH. Last summer, I worked on quantum transduction research at [Painter Lab](https://painterlab.caltech.edu/) through Caltech SURF, designing a qubit module for high fidelity state transfer from optomechanical transducers. I've previously classified birefringent materials using optics-trained Neural Networks (NNs) at [Herrera Lab](https://fherreralab.com/), obtained correction curves for cuprate superconductors at [Shen Laboratory](https://arpes.stanford.edu), and designed real-world environments using Machine Learning (ML) at Autonomous UAV company [Beyond Vision](https://beyond-vision.pt/). Check out my [research](https://rickyparada.github.io/research) page for more information.
 
 I am a proud Angeleno hailing from Glendale, California. I love travel (especially visiting family in Mexico/Thailand), playing soccer, long distance running, and solving Rubik's cubes (particularly while blindfolded). I also enjoy playing games (mostly tabletop or any Mario franchise installment), listening to music (primarily classic rock, Disney, or Taylor Swift), and improving my piano playing abilities. Don't hesitate to reach me at [rparada@stanford.edu](mailto:rparada@stanford.edu) with any questions!
+
+<a href="mailto:rparada@stanford.edu" title="email"><i class="fa-solid fa-envelope"></i></a>
+<a href="https://scholar.google.com/citations?user=j7NyAisAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+<a href="https://www.linkedin.com/in/rickyparada" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+<a href="https://github.com/rickyparada6" title="GitHub"><i class="fa-brands fa-github"></i></a>
+<a href="https://orcid.org/0000-0003-2264-1100" title="ORCID"><i class="ai ai-orcid"></i></a>
