@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: about
+permalink: 
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
