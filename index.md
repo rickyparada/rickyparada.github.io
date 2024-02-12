@@ -17,9 +17,9 @@ I'm currently working at [Mabuchi Lab](https://mabuchilab.org/) on quantum state
 I am a proud Angeleno hailing from Glendale, California. I love travel (especially visiting family in Mexico/Thailand), playing soccer, long distance running, and solving Rubik's cubes (particularly while blindfolded). I also enjoy playing games (mostly tabletop or any Mario franchise installment), listening to music (primarily classic rock, Disney, or Taylor Swift), and improving my piano playing abilities. Don't hesitate to reach me at [rparada@stanford.edu](mailto:rparada@stanford.edu) with any questions!
 
 <div style="text-align:center">
-<a href="mailto:rparada@stanford.edu" title="email"><i class="fa-solid fa-envelope"></i> fa-3x</a>
-<a href="https://scholar.google.com/citations?user=j7NyAisAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar"></i> fa-3x</a>
-<a href="https://github.com/rickyparada6" title="GitHub"><i class="fa-brands fa-github"></i> fa-3x</a>
-<a href="https://www.linkedin.com/in/rickyparada" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> fa-3x</a>
-<a href="https://orcid.org/0000-0003-2264-1100" title="ORCID"><i class="ai ai-orcid"></i> fa-3x</a>
+<a href="mailto:rparada@stanford.edu" title="email"><i class="fa-solid fa-envelope fa-3x"></i></a>
+<a href="https://scholar.google.com/citations?user=j7NyAisAAAAJ&hl" title="Google Scholar fa-3x"><i class="ai ai-google-scholar"></i></a>
+<a href="https://github.com/rickyparada6" title="GitHub"><i class="fa-brands fa-github fa-3x"></i></a>
+<a href="https://www.linkedin.com/in/rickyparada" title="LinkedIn"><i class="fa-brands fa-linkedin fa-3x"></i></a>
+<a href="https://orcid.org/0000-0003-2264-1100" title="ORCID"><i class="ai ai-orcid ai-3x"></i></a>
 <div>
