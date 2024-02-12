@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**Quantum I/O Modeling** at [Mabuchi Lab](https://mabuchilab.org/) $|$ Distributed Computing $|$ Hybrid Quantum Systems
+**Quantum I/O Modeling** at [Mabuchi Lab](https://mabuchilab.org/) \(\vert\) Distributed Computing \(\vert\) Hybrid Quantum Systems
 
 Hello there!
 
