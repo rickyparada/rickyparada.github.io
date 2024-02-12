@@ -17,12 +17,8 @@ I'm currently working at [Mabuchi Lab](https://mabuchilab.org/) on quantum state
 I am a proud Angeleno hailing from Glendale, California. I love travel (especially visiting family in Mexico/Thailand), playing soccer, long distance running, and solving Rubik's cubes (particularly while blindfolded). I also enjoy playing games (mostly tabletop or any Mario franchise installment), listening to music (primarily classic rock, Disney, or Taylor Swift), and improving my piano playing abilities. Don't hesitate to reach me at [rparada@stanford.edu](mailto:rparada@stanford.edu) with any questions!
 
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-scholar-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="mailto:rparada@stanford.edu"><i class="ai ai-envelope-square ai-3x"></i></a>
+	<a href="https://scholar.google.com/citations?user=j7NyAisAAAAJ&hl=en" target="_blank"><i class="ai ai-scholar-square ai-3x"></i></a>
+	<a href="https://github.com/rickyparada6" target="_blank"><i class="ai ai-github-square ai-3x"></i></a>
+	<a href="https://www.linkedin.com/in/rickyparada" target="_blank"><i class="ai ai-linkedin-square ai-3x"></i></a>
 </span>
-
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
