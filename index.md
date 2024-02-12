@@ -8,7 +8,7 @@ layout: page
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-**Quantum I/O Modeling** at <a href=https://mabuchilab.org>Mabuchi Lab</a> | Distributed | Hybrid Quantum Systems
+<strong>Quantum I/O Modeling</strong> at <a href=https://mabuchilab.org>Mabuchi Lab</a> | Distributed | Hybrid Quantum Systems
 
 Hello there!
 
