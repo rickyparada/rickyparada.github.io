@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 nav: true
 nav_order: 2
 ---
 <!-- _pages/research.md -->
+
+---
 
 ### **Mabuchi Lab**
 
