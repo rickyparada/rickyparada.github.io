@@ -64,4 +64,4 @@ Presentation slides [available here](https://drive.google.com/file/d/1O_nQcF_2NQ
 
 Proposed a new testbed utilizing the **Robot Operating System (ROS)** and **Machine Learning (ML)** to procedurally generate and place 3D models to create realistic environments based on satellite images, thus providing users with a more robust example of real-world UAV deployment. Main contribution was creating a feature segmentation model using **YOLOv4** and **MASK R-CNN** (using buildings, trees, roads, etc. as objects) for placement in simulation.
 
-Joint first author (equal contribution*) of MDPI Applied Sciences [journal paper](https://www.mdpi.com/2076-3417/11/5/2185). Video demonstration [available here](https://drive.google.com/file/d/11c7G27hdZmQBw-eZFb6H31-EXhb6ln-8/view?usp=sharing).
+Joint first author of MDPI Applied Sciences [journal paper](https://www.mdpi.com/2076-3417/11/5/2185). Video demonstration [available here](https://drive.google.com/file/d/11c7G27hdZmQBw-eZFb6H31-EXhb6ln-8/view?usp=sharing).
