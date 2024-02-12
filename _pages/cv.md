@@ -1,15 +1,10 @@
 ---
 layout: cv
+classes: wide
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
+cv_pdf: Parada_Ricky_CV.pdf
+sidebar: left # <- remove this line to center the pdf
 ---
-
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0;url=https://drive.google.com/file/d/1HvQCv0CkDS-45KLtQlCwmVcDbjgSmIVi/view?usp=sharing" />
-    <title></title>
-  </head>
- <body></body>
-</html>
