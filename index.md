@@ -5,6 +5,8 @@
 layout: page
 ---
 
+<img class="col one right" src="assets/img/1.jpg">
+
 **Quantum I/O Modeling** at [Mabuchi Lab](https://mabuchilab.org/) $$\vert$$ Distributed $$\vert$$ Hybrid Quantum Systems
 
 Hello there!
