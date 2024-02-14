@@ -11,7 +11,7 @@ description: for all my creations that don't fall under research, work or fun re
 
 **A Single Hand Manual UAV Controller**
 
-<img align="right" src="assets/img/wingman_control.png" alt="" width="300" height="200">
+<img align="right" src="./../assets/img/wingman_control.png" alt="" width="300" height="200">
 
 Integrated palm/finger positional tracking using the **Leap Motion SDK** to fully control a UAV in **Gazebo** simulation or live. Mapped trajectory inputs and smoothed sequences such as roll, pitch, yaw, throttle, 360 flip, takeoff, and landing using the **Robot Operating System (ROS)** in **Python** and **C++**.
 
