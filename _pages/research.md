@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 nav: true
 nav_order: 2
-description: home of significant investigations, papers, and presentations
+description: home of significant papers and presentations
 ---
 <!-- _pages/research.md -->
 
@@ -60,7 +60,7 @@ Presentation slides [available here](https://drive.google.com/file/d/1O_nQcF_2NQ
 
 ### **Autonomous Environment Generation**
 
-**Prof. Felipe Herrera, Universidad de Santiago de Chile (USACH) (June 2022 - August 2022)**
+**Beyond Vision, Lisbon, Portugal (June 2020 - March 2021)**
 
 Proposed a new testbed utilizing the **Robot Operating System (ROS)** and **Machine Learning (ML)** to procedurally generate and place 3D models to create realistic environments based on satellite images, thus providing users with a more robust example of real-world UAV deployment. Main contribution was creating a feature segmentation model using **YOLOv4** and **MASK R-CNN** (using buildings, trees, roads, etc. as objects) for placement in simulation.
 
