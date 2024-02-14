@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 nav: true
 nav_order: 2
-description: home significant investigations, papers, and presentations
+description: home of significant investigations, papers, and presentations
 ---
 <!-- _pages/research.md -->
 

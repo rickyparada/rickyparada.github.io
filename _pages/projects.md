@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 nav: true
 nav_order: 3
-description: landing page for all creations that don't fall under research, work or fun related
+description: landing page for all creations that don't fall under research, work or fun related.
 ---
 
 Coming soon!
