@@ -24,7 +24,7 @@ Writing **QuTiP** software to characterize state propogations from Quantum Input
 
 **Prof. Oskar Painter, *California Institute of Technology* (June 2023 - September 2023)**
 
-<img align="right" style="margin-left: 10px;" src="./../assets/img/wallraff_fig_1_edited.png" alt="" width="350" height="188">
+<img align="right" style="margin-left: 10px;" src="./../assets/img/wallraff_fig_1_edited.png" alt="" width="350" height="175">
 
 Converged on qubit module parameters that optimize the transfer fidelity of a flying photon emitted by an **optomechanical transducer**. Performed detailed error analyses to mitigate the effeciency drop due to multiple loss channels. I further prototyped several physical layouts with distinct qubit geometries in **Sonnet** to determine which configurations were physically realizable.
 
