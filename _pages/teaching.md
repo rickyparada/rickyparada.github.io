@@ -10,11 +10,9 @@ nav_order: 6
 
 **CS 161 Course Assistant, *Stanford University* (Spring 2023, Fall 2023)**
 
-Prepare/teach weekly sections on algorithm design, prepare problem sets/exams, hold office hours, monitor Q&A forum, grade problem sets/exams
+Course staff for a upper level core CS class with 650+ students (Spring 2023) and 150+ students (Fall 2023). Organized weekly sections on algorithm design, prepared problem sets/exams, held office hours, monitored Q&A forums, graded problem sets/exams, and hosted review sessions to help students prepare for exams. Further worked with Embedded Ethics fellows to integrate ethical considerations in algorithm design content (Fall 2023).
 
-600+ students (Spring 2023)
-
-I've worked with Embedded Ethics fellow Dan Webber to revamp the ethics content, helping him compose lecture materials, rewrite section materials, and grade problem set/quiz questions that engage with ethics content. Teaching an ethics-centered section was one of my fondest memories as a CA, since it wasn't too often that I hear (let alone guide) CS students engaging in topical, thought provoking discussions surrounding the ethical decisions of real tech companies as they related to algorithm design.
+Course website (Spring 2023) [available here](https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/index.html){:target="_blank"}. Student evaluations available upon request.
 
 ---
 
