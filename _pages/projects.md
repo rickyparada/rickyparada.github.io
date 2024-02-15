@@ -71,17 +71,22 @@ San Francisco Marathon result [available here](https://www.athlinks.com/event/14
 
 **Miscellaneous Writeups and Presentations**
 
-Writeups: [Applying machine learning algorithms to identify and classify brain scans as having a risk of Alzheimer's disease](https://cs229.stanford.edu/proj2021spr/report2/82006956.pdf){:target="_blank"}
-[Musical Local Conditioning for WaveNet](https://cs230.stanford.edu/projects_spring_2022/reports/127608644.pdf){:target="_blank"}
-[Simple Hash Functions](https://drive.google.com/file/d/1DKmONHj0UUC3jemYOHopdVcQ7CRVfWOD/view?usp=sharing){:target="_blank"}
-[GHZ state Encoding and quantum decoherence](https://drive.google.com/file/d/1nv1g3ZisPElbNo2EimdGxHr-2kBk_pCq/view?usp=sharing){:target="_blank"}
-[Average-Case Complexity](https://drive.google.com/file/d/1X3Ks58fdjeisPdB9_hIl2QrD5eXNcBHV/view?usp=sharing){:target="_blank"}
-[A Qatar Case Study: World Cup Seeding and the Fairness Implications of a Weak Host Nation](https://drive.google.com/file/d/1Nc_LqauGDCs4BrcSXA_n7BI8OicZTvV4/view?usp=sharing){:target="_blank"}
-[Optimal Policy for Ground-to-Satellite Communication using Reinforcement Learning](https://drive.google.com/file/d/1wGFW5xqyl3DYfkYzNm3d31UktLjY5QZD/view?usp=sharing){:target="_blank"}
-[On the complexity of Primality](https://drive.google.com/file/d/1-xd0q4-8gnB8EDwVik_hrTKxoXTA1vJA/view?usp=sharing){:target="_blank"}
-[Equivalence class distribution in asymmetric credit networks](https://drive.google.com/file/d/1-xd0q4-8gnB8EDwVik_hrTKxoXTA1vJA/view?usp=sharing){:target="_blank"}
+Quantum Information Science:
+- [GHZ state Encoding and quantum decoherence](https://drive.google.com/file/d/1nv1g3ZisPElbNo2EimdGxHr-2kBk_pCq/view?usp=sharing){:target="_blank"}
+- [Fast universal control of an oscillator with weak dispersive coupling to a qubit](https://drive.google.com/file/d/1oY30cefBjb9f2v-LJ2IuYkysEnRuqWVx/view?usp=sharing){:target="_blank"}
+- [Non-Isometric Codes for the Black Hole Interior](https://drive.google.com/file/d/1Xxc2CjuEzq62XxG_je3-UZ5xg3txO51I/view?usp=sharing){:target="_blank"}
+- [Amplitude Estimation in Braket](https://drive.google.com/file/d/1qz9l5QYwksFFHdOxyDR7tYz5fB65UG8-/view?usp=sharing){:target="_blank"}
+- [Fermi-Dirac Statistics Exploration](https://drive.google.com/file/d/1nK3qHI0AabHFcCiUFBvVE2EtyLQ2bkCH/view?usp=sharing){:target="_blank"}
 
-Presentations: [Fermi-Dirac Statistics Exploration](https://drive.google.com/file/d/1nK3qHI0AabHFcCiUFBvVE2EtyLQ2bkCH/view?usp=sharing){:target="_blank"}
-[Amplitude Estimation in Braket](https://drive.google.com/file/d/1qz9l5QYwksFFHdOxyDR7tYz5fB65UG8-/view?usp=sharing){:target="_blank"}
-[Fast universal control of an oscillator with weak dispersive coupling to a qubit](https://drive.google.com/file/d/1oY30cefBjb9f2v-LJ2IuYkysEnRuqWVx/view?usp=sharing){:target="_blank"}
-[Non-Isometric Codes for the Black Hole Interior](https://drive.google.com/file/d/1Xxc2CjuEzq62XxG_je3-UZ5xg3txO51I/view?usp=sharing){:target="_blank"}
+Artificial Intelligence: 
+- [Applying machine learning algorithms to identify and classify brain scans as having a risk of Alzheimer's disease](https://cs229.stanford.edu/proj2021spr/report2/82006956.pdf){:target="_blank"} (Machine Learning)
+- [Musical Local Conditioning for WaveNet](https://cs230.stanford.edu/projects_spring_2022/reports/127608644.pdf){:target="_blank"} (Deep Learning)
+- [Optimal Policy for Ground-to-Satellite Communication using Reinforcement Learning](https://drive.google.com/file/d/1wGFW5xqyl3DYfkYzNm3d31UktLjY5QZD/view?usp=sharing){:target="_blank"} (Markov Decision Processes)
+
+Algorithmic Fairness and Complexity Theory: 
+- [A Qatar Case Study: World Cup Seeding and the Fairness Implications of a Weak Host Nation](https://drive.google.com/file/d/1Nc_LqauGDCs4BrcSXA_n7BI8OicZTvV4/view?usp=sharing){:target="_blank"}
+- [Simple Hash Functions](https://drive.google.com/file/d/1DKmONHj0UUC3jemYOHopdVcQ7CRVfWOD/view?usp=sharing){:target="_blank"}
+- [Average-Case Complexity](https://drive.google.com/file/d/1X3Ks58fdjeisPdB9_hIl2QrD5eXNcBHV/view?usp=sharing){:target="_blank"}
+- [On the complexity of Primality](https://drive.google.com/file/d/1-xd0q4-8gnB8EDwVik_hrTKxoXTA1vJA/view?usp=sharing){:target="_blank"}
+- [Time-space tradeoffs](https://drive.google.com/file/d/1V74zuyV4c74WtC6Rvtj3MhBct4K9oCMH/view?usp=sharing){:target="_blank"}
+- [Equivalence class distribution in asymmetric credit networks](https://drive.google.com/file/d/1-xd0q4-8gnB8EDwVik_hrTKxoXTA1vJA/view?usp=sharing){:target="_blank"}
