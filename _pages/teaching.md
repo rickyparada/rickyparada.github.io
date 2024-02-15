@@ -23,6 +23,8 @@ Course website (Spring 2023) [available here](https://web.stanford.edu/class/arc
 
 Organize speaker series/events at the intersection of Quantum Computing and social good. Collaborate with other organizations and develop initiatives that improve diversity, equity, and inclusion (DEI) within QC. Teach quantum computing fundamentals to those intersted in the field with little to no experience.
 
+---
+
 ### **Section Leader: Programming Methodology**
 
 **CS 106A Section Leader, *Stanford University* (Fall 2021)**
