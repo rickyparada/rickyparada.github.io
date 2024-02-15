@@ -39,20 +39,28 @@ This project was part of an internship at **ZPX - Interactive Software** (now **
 
 Programmed and constructed a Rubik’s Cube Solving Robot built on top of a **Raspberry Pi** in bare-metal **C**. Wired a circuit powering 6 servomotors that precisely turn each face of the cube on command. Wrote a custom solver using **3-style**, the blindfolded method that I'm currently learning, which conveniently produces solve times that match my 3x3 abilities (9-12 seconds).
 
-Video demonstration [available here](https://drive.google.com/file/d/1XExxEtymkB8IOTkzh1MUYkfTPDjp26yx/view?usp=sharing){:target="_blank"}. Human vs robot race [here](https://drive.google.com/file/d/10ePE3w9q7iAAHHokkwFTI6F_EAa1Ruq2/view?usp=sharing){:target="_blank"}.
+Video demonstration [available here](https://drive.google.com/file/d/1XExxEtymkB8IOTkzh1MUYkfTPDjp26yx/view?usp=sharing){:target="_blank"}. Ricky vs Cubot race [here](https://drive.google.com/file/d/10ePE3w9q7iAAHHokkwFTI6F_EAa1Ruq2/view?usp=sharing){:target="_blank"}.
 
 ---
 
-### **Multi BLD**
+### **Speedcubing**
 
-**Prof. Hideo Mabuchi, *Stanford University* (January 2024 - Present)**
+**Competitive Rubik's Cube Solving**
 
-Writing **QuTiP** software to characterize state propogations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a variety of optical systems that reside in the **nonlinear regime**. Viewing optomechanical sensors as control systems, these results could inform the noise levels displayed by such devices.
+<img align="right" style="margin-left: 10px;" src="./../assets/img/wca.png" alt="" width="300" height="175">
+
+Regular participant and staffer of regional/national speedcubing competitions regulated by the **World Cube Association** (WCA). Competitive on a national level in blindfolded (BLD) events, ranking 57th in the US as of February 2024. Favorite event is 3x3 Multi-Blind, testing how many 3x3's you can solve consecutively blindfolded in under an hour- a true test of one's memory, mental fortitude, and composure. Notable (at home) personal bests: **3x3- 7.09; 3x3 BLD- 42.34; Multi-Blind- 16/16 in 59:06.45**.
+
+My WCA profile [available here](https://www.worldcubeassociation.org/persons/2018PARA15?event=333mbf){:target="_blank"}. Semi-recent Multi-Blind [available here](https://drive.google.com/file/d/1uUi9wZOPU9IS58P6kI1puEFA8WDebOZJ/view?usp=sharing){:target="_blank"}.
 
 ---
 
-### **Boston Marathon**
+### **Long Distance Running**
 
-**Prof. Hideo Mabuchi, *Stanford University* (January 2024 - Present)**
+**5k/Half Marathon/Marathon Running**
 
-Writing **QuTiP** software to characterize state propogations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a variety of optical systems that reside in the **nonlinear regime**. Viewing optomechanical sensors as control systems, these results could inform the noise levels displayed by such devices.
+<img align="right" style="margin-left: 10px;" src="./../assets/img/marathon.png" alt="" width="175" height="175">
+
+Avid long distance runner specializing in marathons (San Francisco 2021 and 2023). Current personal best is **3:23:48**, placing in the top 7% overall and top 13% for my gender/age group. I hope to one day run a sub-3 hour marathon and qualify for Boston.
+
+San Francisco Marathon result [available here](https://www.athlinks.com/event/1403/results/Event/1052040/Course/2367906/Bib/1361){:target="_blank"}.
