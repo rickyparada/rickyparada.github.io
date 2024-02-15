@@ -79,9 +79,9 @@ Quantum Information Science:
 - [Fermi-Dirac Statistics Exploration](https://drive.google.com/file/d/1nK3qHI0AabHFcCiUFBvVE2EtyLQ2bkCH/view?usp=sharing){:target="_blank"}
 
 Artificial Intelligence: 
-- [Applying machine learning algorithms to identify and classify brain scans as having a risk of Alzheimer's disease](https://cs229.stanford.edu/proj2021spr/report2/82006956.pdf){:target="_blank"} (Machine Learning)
-- [Musical Local Conditioning for WaveNet](https://cs230.stanford.edu/projects_spring_2022/reports/127608644.pdf){:target="_blank"} (Deep Learning)
-- [Optimal Policy for Ground-to-Satellite Communication using Reinforcement Learning](https://drive.google.com/file/d/1wGFW5xqyl3DYfkYzNm3d31UktLjY5QZD/view?usp=sharing){:target="_blank"} (Markov Decision Processes)
+- [Applying machine learning algorithms to identify and classify brain scans as having a risk of Alzheimer's disease](https://cs229.stanford.edu/proj2021spr/report2/82006956.pdf){:target="_blank"}
+- [Musical Local Conditioning for WaveNet](https://cs230.stanford.edu/projects_spring_2022/reports/127608644.pdf){:target="_blank"}
+- [Optimal Policy for Ground-to-Satellite Communication using Reinforcement Learning](https://drive.google.com/file/d/1wGFW5xqyl3DYfkYzNm3d31UktLjY5QZD/view?usp=sharing){:target="_blank"}
 
 Algorithmic Fairness and Complexity Theory: 
 - [A Qatar Case Study: World Cup Seeding and the Fairness Implications of a Weak Host Nation](https://drive.google.com/file/d/1Nc_LqauGDCs4BrcSXA_n7BI8OicZTvV4/view?usp=sharing){:target="_blank"}
