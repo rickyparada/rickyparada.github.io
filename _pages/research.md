@@ -24,7 +24,7 @@ Writing **QuTiP** software to characterize state propogations from Quantum Input
 
 **Prof. Oskar Painter, *California Institute of Technology* (June 2023 - September 2023)**
 
-<img align="right" style="margin-left: 10px;" src="./../assets/img/wallraff_fig_1_edited.png" alt="" width="350" height="200">
+<img align="right" style="margin-left: 10px;" src="./../assets/img/wallraff_fig_1_edited.png" alt="" width="350" height="188">
 
 Converged on qubit module parameters that optimize the transfer fidelity of a flying photon emitted by an **optomechanical transducer**. Performed detailed error analyses to mitigate the effeciency drop due to multiple loss channels. I further prototyped several physical layouts with distinct qubit geometries in **Sonnet** to determine which configurations were physically realizable.
 
@@ -52,7 +52,7 @@ Preprint in progress, to be submitted to [Optics Continuum](https://opg.optica.o
 
 Measured the magnetic field near a pure Vanadium disk isothermally with a **Hall sensor** across a range of different temperatures (slow axis) and external magnetic fields (fast axis). Personal contributions included constructing the solenoid (hand-wiring), electronics layout and assembly, and software/hardware interfacing using **Python**. This quarter-long research project was performed in PHYSICS 108, an accelerated, guided experimental research experience. 
 
-Paper unsubmitted, but [available here](https://arxiv.org/abs/2209.01324){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1hEjzvrht5G0jGwCpTTex5UvQAExgmlx3/view?usp=sharing){:target="_blank"}.
+arXiv preprint [available here](https://arxiv.org/abs/2209.01324){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1hEjzvrht5G0jGwCpTTex5UvQAExgmlx3/view?usp=sharing){:target="_blank"}.
 
 ---
 

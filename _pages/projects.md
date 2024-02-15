@@ -21,13 +21,13 @@ This project was part of an internship at **Beyond Vision** in the summer of 201
 
 ### **VR Gladiator UI**
 
-**Multiplayer platform User Interface Design**
+**Multiplayer Platform User Interface Design**
 
 <img align="right" src="./../assets/img/wingman_control.png" alt="" width="300" height="200">
 
-Created a user interface for the company's
+Created a User Interface (UI) for a multiplayer Virtual Reality (VR) Platformer "VR Gladiator" using **Unreal** (scripting in **C++**). Designed pause menu layout and seamless interaction using 
 
-Integrated palm/finger positional tracking using the **Leap Motion SDK** to fully control a UAV in **Gazebo** simulation or live. Mapped trajectory inputs and smoothed sequences such as roll, pitch, yaw, throttle, 360 flip, takeoff, and landing using the **Robot Operating System (ROS)** in **Python** and **C++**.
+Mapped trajectory inputs and smoothed sequences such as roll, pitch, yaw, throttle, 360 flip, takeoff, and landing using the **Robot Operating System (ROS)** in **Python** and **C++**.
 
 This project was part of an internship at **Beyond Vision** in the summer of 2019. Code is publicly unavailable.
 
