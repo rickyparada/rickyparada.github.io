@@ -35,9 +35,11 @@ This project was part of an internship at **ZPX - Interactive Software** (now **
 
 **A Rubik's Cube Solving Robot**
 
-<img align="right" style="margin-left: 10px;" src="./../assets/img/unreal.png" alt="" width="300" height="175">
+<img align="right" style="margin-left: 10px;" src="./../assets/img/cubot.png" alt="" width="300" height="175">
 
 Programmed and constructed a Rubik’s Cube Solving Robot built on top of a **Raspberry Pi** in bare-metal **C**. Wired a circuit powering 6 servomotors that precisely turn each face of the cube on command. Wrote a custom solver using **3-style**, the blindfolded method that I'm currently learning.
+
+Video demonstration [available here](https://drive.google.com/file/d/1XExxEtymkB8IOTkzh1MUYkfTPDjp26yx/view?usp=sharing){:target="_blank"}. Human vs robot race [here](https://drive.google.com/file/d/10ePE3w9q7iAAHHokkwFTI6F_EAa1Ruq2/view?usp=sharing){:target="_blank"}.
 
 ---
 
