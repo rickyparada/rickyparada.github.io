@@ -27,7 +27,7 @@ This was a final project for a Computer Systems class in Spring 2020. Code [avai
 
 Integrated palm/finger positional tracking using the **Leap Motion SDK** to fully control a UAV in **Gazebo** simulation or live. Mapped trajectory inputs and smoothed sequences such as roll, pitch, yaw, throttle, 360 flip, takeoff, and landing using the **Robot Operating System (ROS)** in **Python** and **C++**.
 
-This project was part of an internship at **Beyond Vision** in the summer of 2019. Code is publicly unavailable.
+This project was part of an internship at **Beyond Vision** in summer 2019. Code is publicly unavailable.
 
 ---
 
@@ -59,11 +59,11 @@ My WCA profile [available here](https://www.worldcubeassociation.org/persons/201
 
 **5k/Half Marathon/Marathon Running**
 
-<img align="right" style="margin-left: 10px;" src="./../assets/img/marathon.png" alt="" width="175" height="175">
+<img align="right" style="margin-left: 10px;" src="./../assets/img/marathon.png" alt="" width="150" height="150">
 
 Avid long distance runner specializing in marathons, racing the hilly San Francisco Marathon in 2021 and 2023. Current personal best is **3:23:48**, which converts to 7:47 pace (per mile). This result placed me in the top 7% overall and top 13% for my gender/age group. I hope to one day run a sub-3 hour marathon and qualify for the Boston Marathon.
 
-San Francisco Marathon result [available here](https://www.athlinks.com/event/1403/results/Event/1052040/Course/2367906/Bib/1361){:target="_blank"}.
+San Francisco Marathon 2023 result [available here](https://www.athlinks.com/event/1403/results/Event/1052040/Course/2367906/Bib/1361){:target="_blank"}.
 
 ---
 
