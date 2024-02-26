@@ -77,6 +77,7 @@ Quantum Information Science:
 - [Non-Isometric Codes for the Black Hole Interior](https://drive.google.com/file/d/1Xxc2CjuEzq62XxG_je3-UZ5xg3txO51I/view?usp=sharing){:target="_blank"}
 - [Amplitude Estimation in Braket](https://drive.google.com/file/d/1qz9l5QYwksFFHdOxyDR7tYz5fB65UG8-/view?usp=sharing){:target="_blank"}
 - [Fermi-Dirac Statistics Exploration](https://drive.google.com/file/d/1nK3qHI0AabHFcCiUFBvVE2EtyLQ2bkCH/view?usp=sharing){:target="_blank"}
+- [BQP and PH Separation Lecture Notes](https://drive.google.com/file/d/1Y9DNGCcj3c_yOq4wkHqmY8y0qPUez3px/view?usp=sharing){:target="_blank"}
 
 Artificial Intelligence: 
 - [Optimal Policy for Ground-to-Satellite Communication using Reinforcement Learning](https://drive.google.com/file/d/1wGFW5xqyl3DYfkYzNm3d31UktLjY5QZD/view?usp=sharing){:target="_blank"}
@@ -88,5 +89,5 @@ Algorithmic Fairness and Complexity Theory:
 - [Simple Hash Functions](https://drive.google.com/file/d/1DKmONHj0UUC3jemYOHopdVcQ7CRVfWOD/view?usp=sharing){:target="_blank"}
 - [Average-Case Complexity](https://drive.google.com/file/d/1X3Ks58fdjeisPdB9_hIl2QrD5eXNcBHV/view?usp=sharing){:target="_blank"}
 - [On the complexity of Primality](https://drive.google.com/file/d/1-xd0q4-8gnB8EDwVik_hrTKxoXTA1vJA/view?usp=sharing){:target="_blank"}
-- [Time-space tradeoffs](https://drive.google.com/file/d/1V74zuyV4c74WtC6Rvtj3MhBct4K9oCMH/view?usp=sharing){:target="_blank"}
+- [Time-space tradeoffs Lecture Notes](https://drive.google.com/file/d/1V74zuyV4c74WtC6Rvtj3MhBct4K9oCMH/view?usp=sharing){:target="_blank"}
 - [Equivalence class distribution in asymmetric credit networks](https://drive.google.com/file/d/1A_O0Ce7_POKlxMxGDnvMrwxF4bTYw8M3/view?usp=sharing){:target="_blank"}
