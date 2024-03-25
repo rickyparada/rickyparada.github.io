@@ -72,6 +72,7 @@ San Francisco Marathon 2023 result [available here](https://www.athlinks.com/eve
 **Writeups and Explanatory Papers/Presentations**
 
 Quantum Information Science:
+- [Free-Space QED with a Rydberg Superatom](https://drive.google.com/file/d/12QGTUbV_bDXHYhWdE7Hw8PL0EdiPHmt9/view?usp=sharing){:target="_blank"}
 - [GHZ state Encoding and quantum decoherence](https://drive.google.com/file/d/1nv1g3ZisPElbNo2EimdGxHr-2kBk_pCq/view?usp=sharing){:target="_blank"}
 - [Fast universal control of an oscillator with weak dispersive coupling to a qubit](https://drive.google.com/file/d/1oY30cefBjb9f2v-LJ2IuYkysEnRuqWVx/view?usp=sharing){:target="_blank"}
 - [Non-Isometric Codes for the Black Hole Interior](https://drive.google.com/file/d/1Xxc2CjuEzq62XxG_je3-UZ5xg3txO51I/view?usp=sharing){:target="_blank"}
