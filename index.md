@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img align="right" src="assets/img/best_headshot.png" alt="" width="220" height="220">
+<img align="right" src="assets/img/best_headshot.png" alt="Ricky Parada Headshot 2023" width="220" height="220">
 
 **Quantum I/O Modeling** at [Mabuchi Lab](https://mabuchilab.org/){:target="_blank"} $$\vert$$ Hybrid Quantum Systems $$\vert$$ Distributed QC
 
