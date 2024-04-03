@@ -9,7 +9,7 @@ last_name: Parada
 email: rparada@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Ricky Parada. Based on [*folio](https://github.com/bogoli/-folio) design.
-keywords: Ricky-Parada, tranducers, Stanford, Caltech, quantum-computing, superconducting-qubits # add your own keywords or leave empty
+keywords: Ricky-Parada, ricky-parada, Ricky, ricky, Parada, parada, tranducers, Stanford, Caltech, quantum-computing, superconducting-qubits # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -233,7 +233,7 @@ defaults:
   - scope:
       path: "assets"
     values:
-      sitemap: false
+      sitemap: true
 
 sass:
   style: compressed
@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Parada]
+  first_name: [Ricky, A.]
 
   style: apa
   locale: en
