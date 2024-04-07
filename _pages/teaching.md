@@ -15,6 +15,8 @@ Part of the Code in Place teaching team for all four offerings to date, a projec
 
 Website [available here](https://codeinplace.stanford.edu/){:target="_blank"}.
 
+---
+
 ### **Course Assistant: Design and Analysis of Algorithms**
 
 **CS 161 Course Assistant, *Stanford University* (Spring 2023, Fall 2023)**
