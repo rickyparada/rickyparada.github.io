@@ -16,7 +16,7 @@ description: home of significant papers and presentations
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/qions.png" alt="" width="350" height="175">
 
-Writing **QuTiP** software to characterize state propogations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a variety of optical systems that reside in the **nonlinear regime**. Viewing optomechanical sensors as control systems, these results could inform the noise levels displayed by such devices.
+Writing **QuTiP** software to characterize state propagations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a non-degenerate optical parametric amplifier (NOPO) + atom cloud system. Viewing optomechanical sensors as control systems allow us to draw conclusions about the noise levels displayed by such devices.
 
 ---
 
@@ -26,7 +26,7 @@ Writing **QuTiP** software to characterize state propogations from Quantum Input
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/wallraff_fig_1_edited.png" alt="" width="350" height="175">
 
-Converged on qubit module parameters that optimize the transfer fidelity of a flying photon emitted by an **optomechanical transducer**. Performed detailed error analyses to mitigate the effeciency drop due to multiple loss channels. I further prototyped several physical layouts with distinct qubit geometries in **Sonnet** to determine which configurations were physically realizable.
+Converged on qubit module parameters that optimize the transfer fidelity of a flying photon emitted by an **optomechanical transducer**. Performed detailed error analyses to mitigate the efficiency drop due to multiple loss channels. I further prototyped several physical layouts with distinct qubit geometries in **Sonnet** to determine which configurations were physically realizable.
 
 Paper unsubmitted, but [available here](https://drive.google.com/file/d/1bgm7kcSLPthreUVNKtpM3ocQH3rYKbDT/view?usp=sharing){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1FCuTOX9cTHbK8wTdKeeZ2OEKtDYs-jmb/view?usp=sharing){:target="_blank"}.
 
