@@ -38,7 +38,7 @@ Paper unsubmitted, but [available here](https://drive.google.com/file/d/1bgm7kcS
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/brewster.png" alt="" width="350" height="175">
 
-Classified birifringent materials based on their refractive indices using a **feed-forward Neural Network (NN)** trained solely on optical information. Determined input data in the form of Mueller matrices and Brewster's angles in reflection using polarimetry techniques. Engineered **loss landscapes** of a fixed window centered around Barium Borate (BBO) with varying resolution to measure the model's extrapolation ability.
+Classified birefringent materials based on their refractive indices using a **feed-forward Neural Network (NN)** trained solely on optical information. Determined input data in the form of Mueller matrices and Brewster's angles in reflection using polarimetry techniques. Engineered **loss landscapes** of a fixed window centered around Barium Borate (BBO) with varying resolution to measure the model's extrapolation ability.
 
 Preprint in progress, to be submitted to [Optics Continuum](https://opg.optica.org/optcon/journal/optcon/about.cfm){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1M3Pf-JbvTxUSwoPGReYcSEIhvULLXeuq/view?usp=sharing){:target="_blank"}.
 

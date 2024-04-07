@@ -7,6 +7,14 @@ nav_order: 6
 description: teaching roles in any capacity
 ---
 
+### **Head TA; Section Leader (SL)**
+
+**Head TA, SL at Code in Place (Spring 2020, 2021, 2023, 2024)**
+
+Part of the Code in Place teaching team for all four offerings to date, a project that launched during the COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. Prepared and taught a weekly section based on material from Stanford’s introductory programming course, CS106A. Gave weekly feedback on student assignment submissions, led workshops and training sessions for new SLs (2021). Hired, onboarded, and held office hours for SLs as Head TA (2024).
+
+Website [available here](https://codeinplace.stanford.edu/){:target="_blank"}.
+
 ### **Course Assistant: Design and Analysis of Algorithms**
 
 **CS 161 Course Assistant, *Stanford University* (Spring 2023, Fall 2023)**
@@ -25,16 +33,6 @@ Organize speaker series/events at the intersection of Quantum Computing and soci
 
 ---
 
-### **Section Leader: Programming Methodology**
-
-**CS 106A Section Leader, *Stanford University* (Fall 2021)**
-
-Course staff for the introduction to programming class in **Python**. Course covers program design, decomposition, encapsulation, abstraction, and testing. Taught weekly sections to 10-15 students, graded assignments, and helped students debug during office hours. Further mentored incoming section leaders as a small group lead (SGL) and led exam grading sessions.
-
-Course website (Fall 2021) [available here](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/){:target="_blank"}.
-
----
-
 ### **Section Leader: Programming Abstractions**
 
 **CS 106B Section Leader, *Stanford University* (Winter/Spring/Fall 2022, Winter 2023)**
@@ -45,13 +43,13 @@ Course website (Fall 2022) [available here](https://web.stanford.edu/class/archi
 
 ---
 
-### **Virtual Section Leader (VSL)**
+### **Section Leader: Programming Methodology**
 
-**VSL at Code in Place (Spring 2020, 2021, 2023)**
+**CS 106A Section Leader, *Stanford University* (Fall 2021)**
 
-Part of the Code in Place teaching team for all three offerings to date, a project that launched during the COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. Prepared and taught a weekly section based on material from Stanford’s introductory programming course, CS106A. Gave weekly feedback on student assignment submissions, led workshops and training sessions for new VSLs (2021).
+Course staff for the introduction to programming class in **Python**. Course covers program design, decomposition, encapsulation, abstraction, and testing. Taught weekly sections to 10-15 students, graded assignments, and helped students debug during office hours. Further mentored incoming section leaders as a small group lead (SGL) and led exam grading sessions.
 
-Website [available here](https://codeinplace.stanford.edu/){:target="_blank"}.
+Course website (Fall 2021) [available here](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/){:target="_blank"}.
 
 ---
 
@@ -60,3 +58,13 @@ Website [available here](https://codeinplace.stanford.edu/){:target="_blank"}.
 **Resident Assistant, *Stanford University* (September 2021 - June 2023)**
 
 Managed 88 ethnically diverse all frosh (2021-2022) and upper class (2022-2023) undergrads, budgeted dorm funds as house treasurer (2022-2023), and planned kickass events to Yosemite, Disneyland, etc. Taught Frosh 101, an introductory course focused on easing the 1st year transition to life at Stanford (Fall 2021).
+
+---
+
+### **Kids Coding Mentor**
+
+**Breakout Mentors (January 2020 - June 2021)**
+
+Mentored middle/high school students in creating interactive projects using Java, Arduino, Unity, Python, and more. Projects ranged from implementing popular games such as Connect Four, Snake, and Pacman (with ghost agents embedded with basic AI logic) to wiring and programming a self-navigating Arduino Robot.
+
+Website [available here](https://breakoutmentors.com/){:target="_blank"}.
