@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 nav: true
 nav_order: 3
-description: for creations that don't fall under research, work or fun related
+description: growing collection of non-research related work
 ---
 
 ### **Cubot**
@@ -49,7 +49,7 @@ This project was part of an internship at **ZPX - Interactive Software** (now **
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/wca.png" alt="" width="275" height="175">
 
-Regular participant and staffer of regional/national speedcubing competitions regulated by the **World Cube Association** (WCA). Competitive on a national level in blindfolded (BLD) events, ranking 57th in the US as of February 2024. Favorite event is 3x3 Multi-Blind, testing how many 3x3's you can solve consecutively blindfolded in under an hour- a true test of one's memory, mental fortitude, and composure. Some noteable (at home) personal bests: **3x3- 7.09; 3x3 BLD- 42.34; Multi-Blind- 16/16 in 59:06.45**.
+Regular participant and staffer of regional/national speedcubing competitions regulated by the **World Cube Association** (WCA). Competitive on a national level in blindfolded (BLD) events, ranking 57th in the US as of February 2024. Favorite event is 3x3 Multi-Blind, testing how many 3x3's you can solve consecutively, while blindfolded, in under an hour- a true test of one's memory, mental fortitude, and composure. Some noteable (at home) personal bests: **3x3- 7.09 seconds; 3x3 BLD- 42.34 seconds; Multi-Blind- 16/16 in 59:06.45 minutes**.
 
 My WCA profile [available here](https://www.worldcubeassociation.org/persons/2018PARA15?event=333mbf){:target="_blank"}. Semi-recent Multi-Blind attempt [available here](https://drive.google.com/file/d/1uUi9wZOPU9IS58P6kI1puEFA8WDebOZJ/view?usp=sharing){:target="_blank"}.
 

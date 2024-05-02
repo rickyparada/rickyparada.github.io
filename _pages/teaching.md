@@ -21,7 +21,7 @@ Website [available here](https://codeinplace.stanford.edu/){:target="_blank"}.
 
 **CS 161 Course Assistant, *Stanford University* (Spring 2023, Fall 2023)**
 
-Course staff for a upper level core CS class with 650+ students (Spring 2023) and 150+ students (Fall 2023). Course covers asymptotic analysis, recurrence relations, efficient sorting, binary search trees, heaps, hash tables, dynamic programming, greedy algorithms, randomization, minimum-cost spanning trees, connected components, topological sort, and shortest paths. Organized weekly sections, prepared problem sets/exams, held office hours, monitored Q&A forums, graded problem sets/exams, and hosted review sessions to help students prepare for exams. Further worked with Embedded Ethics fellows to integrate ethical considerations in algorithm design content (Fall 2023).
+Course staff for an upper level core CS class with 650+ students (Spring 2023) and 150+ students (Fall 2023). Course covers asymptotic analysis, recurrence relations, efficient sorting, binary search trees, heaps, hash tables, dynamic programming, greedy algorithms, randomization, minimum-cost spanning trees, connected components, topological sort, and shortest paths. Organized weekly sections, prepared problem sets/exams, held office hours, monitored Q&A forums, graded problem sets/exams, and hosted review sessions to help students prepare for exams. Further worked with Embedded Ethics fellows to integrate ethical considerations in algorithm design content (Fall 2023).
 
 Course website (Spring 2023) [available here](https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/index.html){:target="_blank"}. Student evaluations available upon request.
 

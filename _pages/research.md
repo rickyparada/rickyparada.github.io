@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 nav: true
 nav_order: 2
-description: home of significant papers and presentations
+description: significant papers and presentations
 ---
 <!-- _pages/research.md -->
 
@@ -16,7 +16,7 @@ description: home of significant papers and presentations
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/qions.png" alt="" width="350" height="175">
 
-Writing **QuTiP** software to characterize state propagations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a non-degenerate optical parametric amplifier (NOPO) + atom cloud system. Viewing optomechanical sensors as control systems allow us to draw conclusions about the noise levels displayed by such devices.
+Writing **QuTiP** software to characterize state propagations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a non-degenerate optical parametric amplifier (NOPO) + atom cloud system. Viewing optomechanical sensors as control systems allows us to draw conclusions about the noise levels displayed by such devices.
 
 ---
 
