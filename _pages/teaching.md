@@ -29,9 +29,9 @@ Course website (Spring 2023) [available here](https://web.stanford.edu/class/arc
 
 ### **Social and Community Impact Committee Chair**
 
-**Stanford Quantum Computing Association (SQCA), *Stanford University* (2021-present)**
+**Stanford Quantum Computing Association (SQCA), *Stanford University* (2021 - 2024)**
 
-Organize speaker series/events at the intersection of Quantum Computing (QC) and social good. Collaborate with other organizations and develop initiatives that improve diversity, equity, and inclusion (DEI) within QC. Teach quantum computing fundamentals to those interested in the field with little to no experience.
+Organized speaker series/events at the intersection of Quantum Computing (QC) and social good. Collaborated with other organizations and develop initiatives that improve diversity, equity, and inclusion (DEI) within QC. Taught quantum computing fundamentals to those interested in the field with little to no experience.
 
 ---
 
