@@ -12,11 +12,11 @@ description: significant papers and presentations
 
 ### **State Propogation Modeling**
 
-**Prof. Hideo Mabuchi, *Stanford University* (January 2024 - Present)**
+**Prof. Hideo Mabuchi, *Stanford University* (January 2024 - June 2024)**
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/qions.png" alt="" width="350" height="175">
 
-Writing **QuTiP** software to characterize state propagations from Quantum Input/Output Networks (QIONs) using SLH. We aim to quantify the advantage of a coherent controller in a non-degenerate optical parametric amplifier (NOPO) + atom cloud system. Viewing optomechanical sensors as control systems allows us to draw conclusions about the noise levels displayed by such devices.
+Wrote **QuTiP** software to characterize state propagations from Quantum Input/Output Networks (QIONs) using SLH. Quantified the advantage of a coherent controller in a non-degenerate optical parametric amplifier (NOPO) + atom cloud system. Viewed optomechanical sensors from the perspective of a control system to draw conclusions about the noise levels displayed by such devices.
 
 ---
 
@@ -26,7 +26,7 @@ Writing **QuTiP** software to characterize state propagations from Quantum Input
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/wallraff_fig_1_edited.png" alt="" width="350" height="175">
 
-Converged on qubit module parameters that optimize the transfer fidelity of a flying photon emitted by an **optomechanical transducer**. Performed detailed error analyses to mitigate the efficiency drop due to multiple loss channels. I further prototyped several physical layouts with distinct qubit geometries in **Sonnet** to determine which configurations were physically realizable.
+Converged on qubit module parameters that optimize the transfer fidelity of a flying photon emitted by an **optomechanical transducer**. Performed detailed error analyses to mitigate the efficiency drop due to multiple loss channels. Prototyped several physical layouts with distinct qubit geometries in **Sonnet** to determine which configurations were physically realizable.
 
 Paper unsubmitted, but [available here](https://drive.google.com/file/d/1bgm7kcSLPthreUVNKtpM3ocQH3rYKbDT/view?usp=sharing){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1FCuTOX9cTHbK8wTdKeeZ2OEKtDYs-jmb/view?usp=sharing){:target="_blank"}.
 
@@ -38,9 +38,9 @@ Paper unsubmitted, but [available here](https://drive.google.com/file/d/1bgm7kcS
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/brewster.png" alt="" width="350" height="175">
 
-Classified birefringent materials based on their refractive indices using a **feed-forward Neural Network (NN)** trained solely on optical information. Determined input data in the form of Mueller matrices and Brewster's angles in reflection using polarimetry techniques. Engineered **loss landscapes** of a fixed window centered around Barium Borate (BBO) with varying resolution to measure the model's extrapolation ability.
+Part of my study abroad quarter in Santiago, Chile. Classified birefringent materials based on their refractive indices using a **feed-forward Neural Network (NN)** trained solely on optical information. Determined input data in the form of Mueller matrices and Brewster's angles in reflection using polarimetry techniques. Engineered **loss landscapes** of a fixed window centered around Barium Borate (BBO) with varying resolution to measure the model's extrapolation ability.
 
-Preprint in progress, to be submitted to [Optics Continuum](https://opg.optica.org/optcon/journal/optcon/about.cfm){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1M3Pf-JbvTxUSwoPGReYcSEIhvULLXeuq/view?usp=sharing){:target="_blank"}.
+Paper in progress, to be submitted to [Optics Continuum](https://opg.optica.org/optcon/journal/optcon/about.cfm){:target="_blank"}. Presentation slides [available here](https://drive.google.com/file/d/1M3Pf-JbvTxUSwoPGReYcSEIhvULLXeuq/view?usp=sharing){:target="_blank"}.
 
 ---
 

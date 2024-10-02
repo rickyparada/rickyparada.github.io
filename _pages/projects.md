@@ -49,7 +49,7 @@ This project was part of an internship at **ZPX - Interactive Software** (now **
 
 <img align="right" style="margin-left: 10px;" src="./../assets/img/wca.png" alt="" width="275" height="175">
 
-Regular participant and staffer of regional/national speedcubing competitions regulated by the **World Cube Association** (WCA). Competitive on a national level in blindfolded (BLD) events, ranking 57th in the US as of February 2024. Favorite event is 3x3 Multi-Blind, testing how many 3x3's you can solve consecutively, while blindfolded, in under an hour- a true test of one's memory, mental fortitude, and composure. Some noteable (at home) personal bests: **3x3- 7.09 seconds; 3x3 BLD- 42.34 seconds; Multi-Blind- 16/16 in 59:06.45 minutes**.
+Regular participant and staffer of regional/national speedcubing competitions regulated by the **World Cube Association** (WCA). Competitive in blindfolded (BLD) events, ranking in the top 100 nationwide. Favorite event is 3x3 Multi-Blind, testing how many 3x3's you can solve consecutively, while blindfolded, in under an hour- a true test of one's memory, mental fortitude, and composure. Some noteable (at home) personal bests: **3x3- 7.09 seconds; 3x3 BLD- 42.34 seconds; Multi-Blind- 16/16 in 59:06.45 minutes**.
 
 My WCA profile [available here](https://www.worldcubeassociation.org/persons/2018PARA15?event=333mbf){:target="_blank"}. Semi-recent Multi-Blind attempt [available here](https://drive.google.com/file/d/1uUi9wZOPU9IS58P6kI1puEFA8WDebOZJ/view?usp=sharing){:target="_blank"}.
 
@@ -72,6 +72,7 @@ San Francisco Marathon 2023 result [available here](https://www.athlinks.com/eve
 **Writeups and Explanatory Papers/Presentations**
 
 Quantum Information Science:
+- [Universal control of a six-qubit quantum processor in silicon](https://drive.google.com/file/d/1r0Y3ZBSiq0iSJLtm2r1Yc_xVzeaB8_7E/view?usp=sharing){:target="_blank"}
 - [Free-Space QED with a Rydberg Superatom](https://drive.google.com/file/d/12QGTUbV_bDXHYhWdE7Hw8PL0EdiPHmt9/view?usp=sharing){:target="_blank"}
 - [GHZ state Encoding and quantum decoherence](https://drive.google.com/file/d/1nv1g3ZisPElbNo2EimdGxHr-2kBk_pCq/view?usp=sharing){:target="_blank"}
 - [Fast universal control of an oscillator with weak dispersive coupling to a qubit](https://drive.google.com/file/d/1oY30cefBjb9f2v-LJ2IuYkysEnRuqWVx/view?usp=sharing){:target="_blank"}
@@ -80,7 +81,8 @@ Quantum Information Science:
 - [Fermi-Dirac Statistics Exploration](https://drive.google.com/file/d/1nK3qHI0AabHFcCiUFBvVE2EtyLQ2bkCH/view?usp=sharing){:target="_blank"}
 - [BQP and PH Separation Lecture Notes](https://drive.google.com/file/d/1Y9DNGCcj3c_yOq4wkHqmY8y0qPUez3px/view?usp=sharing){:target="_blank"}
 
-Artificial Intelligence: 
+Artificial Intelligence:
+- [On the Detection of GAN-Generated Facial Imagery](https://drive.google.com/file/d/1MANWGN_chioyNtNJ5aqTCoROqsNT8eGO/view?usp=sharing){:target="_blank"}
 - [Optimal Policy for Ground-to-Satellite Communication using Reinforcement Learning](https://drive.google.com/file/d/1wGFW5xqyl3DYfkYzNm3d31UktLjY5QZD/view?usp=sharing){:target="_blank"}
 - [Applying machine learning algorithms to identify and classify brain scans as having a risk of Alzheimer's disease](https://cs229.stanford.edu/proj2021spr/report2/82006956.pdf){:target="_blank"}
 - [Musical Local Conditioning for WaveNet](https://cs230.stanford.edu/projects_spring_2022/reports/127608644.pdf){:target="_blank"}
