@@ -47,7 +47,7 @@ This project was part of an internship at **ZPX - Interactive Software** (now **
 
 **Competitive Rubik's Cube Solving**
 
-<img align="right" style="margin-left: 10px;" src="./../assets/img/wca.png" alt="" width="275" height="175">
+<img align="right" style="margin-left: 10px;" src="./../assets/img/MBLD.png" alt="" width="275" height="175">
 
 Regular participant and staffer of regional/national speedcubing competitions regulated by the **World Cube Association** (WCA). Competitive in blindfolded (BLD) events, ranking in the top 100 nationwide. Favorite event is 3x3 Multi-Blind, testing how many 3x3's you can solve consecutively, while blindfolded, in under an hour- a true test of one's memory, mental fortitude, and composure. Some noteable (at home) personal bests: **3x3- 7.09 seconds; 3x3 BLD- 42.34 seconds; Multi-Blind- 16/16 in 59:06.45 minutes**.
 
